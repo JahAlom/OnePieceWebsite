@@ -1,0 +1,78 @@
+body {
+   background-image: url("https://lh5.googleusercontent.com/proxy/CaMPlGPudnhDC0rAqoVX8sa24rBnsB87hEhAILY0j15vMCwq6Z3BztegDaBe5BOVERQ=s0-d");
+   background-repeat: no-repeat; 
+   background-size: cover;
+}
+img {
+    color: #ffffff;
+    width: 30%;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    background-color: #ffffff;
+    text-align:center;
+}
+ 
+
+nav ul li {    
+    overflow: hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 15px;
+    padding-left: 1%;
+    padding-left: 30px;
+    padding-right: 30px;;
+    background-color: #ffffff1a;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+nav ul li a {
+    color: #000000 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 15px;
+    width: 100px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav ul li ul {
+    display: none;
+    color: #000000 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #ffffff1a;
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+
+nav ul li ul li a:hover{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #0096ec;
+}
+
+
+
+.footer {
+    background-color: burlywood;
+    padding-top: 1em;
+    margin-top: 50%;
+    text-align: center;
+    border-radius: 20px;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+
+One Piece Website
+
+1) Characters
+2) Story Arcs
+3) Theories
+
+
+Features
+
+1) Moving gifs (character specific if possible)
+2) Navigation bar
+3) Images
+4) Overlay
+5) Background Image
